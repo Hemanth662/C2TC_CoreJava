@@ -10,4 +10,4 @@ package com.tnsif.lessoninterfaces1;
  */
 public interface I1 {
 	void display();
-
+}
